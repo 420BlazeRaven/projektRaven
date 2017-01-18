@@ -1,0 +1,70 @@
+.page{
+	background-color:linear-gradient(white,black);
+	color:green;
+}
+header{
+	text-align:center;
+	color:green;
+}
+nav{
+	width:990px;
+	margin:auto;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A8A8A8;
+}
+
+nav li{
+    float: left;
+}
+
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width:215.5px;
+}
+
+nav li a:hover {
+    background-color: #636363;
+}
+.footertext{
+	width: 99%;
+	text-align: center;
+	bottom:20px;
+	position:absolute;
+	background-color:lightgrey;
+}
+section{
+	width:990px;
+	margin:auto;
+	text-align:center;
+	border:1px solid black;
+}
+.sectitle{
+	font-family:arial;
+	font-style:italic;
+}
+article{
+	width:990px;
+	margin:auto;
+	text-align:center;
+	border:1px solid black;
+}
+aside{
+	width:10%;
+	position:absolute;
+	top:20%;
+	left:10%;
+	border:1px solid black;
+}
+.unicorns{
+	height:94.7px;
+	width:130.8px;
+}
