@@ -1,6 +1,5 @@
-.page{
-	background-color:linear-gradient(white,black);
-	color:green;
+*{
+	background-color:gainsboro;
 }
 header{
 	width:990px;
