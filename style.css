@@ -3,32 +3,34 @@
 	color:green;
 }
 header{
-	text-align:center;
-	color:green;
+	width:990px;
+	margin:auto;
 }
 nav{
-	width:990px;
+	width:auto;
 	margin:auto;
 }
 nav ul{
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
     overflow: hidden;
     background-color: #A8A8A8;
 }
 
 nav li{
-    float: left;
+	width:25%;
+	margin:auto;
+	float:left;
 }
 
 nav li a{
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 3%;
     text-decoration: none;
-    width:215.5px;
+    width:auto;
 }
 
 nav li a:hover {
@@ -37,12 +39,12 @@ nav li a:hover {
 .footertext{
 	width: 99%;
 	text-align: center;
-	bottom:20px;
+	bottom:2%;
 	position:absolute;
 	background-color:lightgrey;
 }
 section{
-	width:990px;
+	width:50%;
 	margin:auto;
 	text-align:center;
 	border:1px solid black;
@@ -52,7 +54,7 @@ section{
 	font-style:italic;
 }
 article{
-	width:990px;
+	width:50%;
 	margin:auto;
 	text-align:center;
 	border:1px solid black;
@@ -60,11 +62,11 @@ article{
 aside{
 	width:10%;
 	position:absolute;
-	top:20%;
+	top:25%;
 	left:10%;
 	border:1px solid black;
 }
 .unicorns{
-	height:94.7px;
-	width:130.8px;
+	height:15%;
+	width:15%;
 }
